@@ -45,13 +45,13 @@ career-profile:
             <li>Knowledge which was applyed: Selenium WebDriver/Grid, Selenoid, Appium, SikuliX, TestNG, Jmeter ,Allure, Jenkins, Git, Docker, REST, Robot Framework, Codeception </li>
             <li>Knowledge which is still being applyed: Selenium WebDriver, Git, AzureDevOps, Protactor/TypeScript, PowerBi, HPALM, Scrum </li>
             <li>Experience in creating test automation frameworks</li>
-            
+             </ul></div>
           <div>I started career as a Manual Test Engineer. I’m been working as a QA Engineer for 6 years. 
           For this time, I have focused on many interesting and difficult features. 
           I always accomplish everything what I am said and prove of results. 
           On my practice I’ve worked as QA Manual , Automation and a little as Performance Load Engineer. 
           Currently my role as a test engineer with experience automated testing.
-          </div>
+          </div>'
 
 education:
   - degree: Economic Math
