@@ -78,6 +78,69 @@ experiences:
     time: Aug 2013 - Jul 2014
     company: Illusix, Kharkiv
     
+skills:
+  title: Skills &amp; Proficiency
+  toolset:
+    - name: Software Testing / Quality Assurance
+      level: 90%
+
+    - name: Test Automation
+      level: 90%
+
+    - name: Development
+      level: 70%
+
+    - name: Selenium / TestnNG / Allure
+      level: 95%
+
+    - name: Mocha / Chai / WebDriverIO
+      level: 90%
+
+    - name: Appium
+      level: 70%
+
+    - name: JMeter / Gatling
+      level: 50%
+
+    - name: Java / OOP / Design Patterns
+      level: 85%
+
+    - name: Javascript / Typescript
+      level: 70%
+
+    - name: Spring Boot
+      level: 50%
+
+    - name: NestJS / TypeORM
+      level: 75%
+
+    - name: ReactJS / MobX
+      level: 40%
+
+    - name: Python / Flask
+      level: 35%
+
+    - name: Gradle / Maven / NPM / Yarn
+      level: 90%
+
+    - name: SQL / NoSQL DB
+      level: 70%
+
+    - name: Git
+      level: 90%
+
+    - name: Jenkins
+      level: 90%
+
+    - name: Docker
+      level: 75%
+
+    - name: AWS / Google services
+      level: 65%
+
+    - name: IoT
+      level: 50%
+    
     
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
